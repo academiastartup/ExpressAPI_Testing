@@ -1,0 +1,11 @@
+{
+    "1": {
+      "date": "2021/05/23",
+      "recipient": "António Sapalo",
+      "beneficiary": "Rosa Pinto",
+      "type" : "service-payment",
+      "direction" : "in",
+      "value" : "120000",
+      "id": 1
+    }
+  }
