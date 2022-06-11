@@ -7,8 +7,10 @@ const bodyParser = require('body-parser')
 const app = express()
 const fs = require('fs')
 const port = 3000
+const cors = require('cors')
 
 // express configurations
+app.use(cors())
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended : true}))
 
