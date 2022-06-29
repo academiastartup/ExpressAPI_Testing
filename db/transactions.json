@@ -1,6 +1,6 @@
 [
     {
-      "date": "2021/05/23",
+      "date": "2021/01/23",
       "recipient": "António Sapalo",
       "beneficiary": "Rosa Pinto",
       "type" : "service-payment",
@@ -11,7 +11,7 @@
     },
 
     {
-        "date": "2022/04/22",
+        "date": "2021/04/22",
         "recipient": "Rosa Pinto",
         "beneficiary": "Marcos Inácio",
         "type" : "service-payment",
@@ -22,7 +22,7 @@
     },
 
     {
-        "date": "2022/04/22",
+        "date": "2021/04/22",
         "recipient": "Rosa Pinto",
         "beneficiary": "Academia Startup",
         "type" : "credit-insertion",
@@ -33,7 +33,7 @@
     },
 
     {
-        "date": "2021/05/23",
+        "date": "2021/04/23",
         "recipient": "António Sapalo",
         "beneficiary": "Rosa Pinto",
         "type" : "service-payment",
@@ -922,17 +922,17 @@
                 "status" : "cancelado",
                 "id": 3
             },
-    
-            {
-                "date": "2022/04/22",
-                "recipient": "Rosa Pinto",
-                "beneficiary": "Marcos Inácio",
-                "type" : "service-payment",
-                "direction" : "out",
-                "value" : "12500",
-                "status" : "cancelado",
-                "id": 2
-            },
+        
+                {
+                    "date": "2022/04/22",
+                    "recipient": "Rosa Pinto",
+                    "beneficiary": "Marcos Inácio",
+                    "type" : "service-payment",
+                    "direction" : "out",
+                    "value" : "12500",
+                    "status" : "cancelado",
+                    "id": 2
+                },
         
             {
                 "date": "2022/04/22",
@@ -1419,7 +1419,7 @@
                   },
                 
                   {
-                      "date": "2022/04/22",
+                      "date": "2022/01/22",
                       "recipient": "Rosa Pinto",
                       "beneficiary": "Marcos Inácio",
                       "type" : "service-payment",
@@ -1451,7 +1451,7 @@
                   },
               
                   {
-                      "date": "2022/04/22",
+                      "date": "2021/01/23",
                       "recipient": "Rosa Pinto",
                       "beneficiary": "Luís Tchitue",
                       "type" : "credit-insertion",
@@ -1462,7 +1462,7 @@
                   },
           
                   {
-                      "date": "2022/04/22",
+                      "date": "2021/01/18",
                       "recipient": "Rosa Pinto",
                       "beneficiary": "Marcos Inácio",
                       "type" : "service-payment",
@@ -1473,7 +1473,7 @@
                   },
               
                   {
-                      "date": "2022/04/22",
+                      "date": "2021/01/02",
                       "recipient": "Rosa Pinto",
                       "beneficiary": "Academia Startup",
                       "type" : "credit-insertion",
@@ -1484,7 +1484,7 @@
                   },
               
                   {
-                      "date": "2021/05/23",
+                      "date": "2021/01/23",
                       "recipient": "António Sapalo",
                       "beneficiary": "Rosa Pinto",
                       "type" : "service-payment",
@@ -1559,7 +1559,7 @@
                     },
                 
                     {
-                        "date": "2022/04/22",
+                        "date": "2021/01/22",
                         "recipient": "Rosa Pinto",
                         "beneficiary": "Academia Startup",
                         "type" : "credit-insertion",
@@ -1570,7 +1570,7 @@
                     },
                 
                     {
-                        "date": "2021/05/23",
+                        "date": "2021/01/13",
                         "recipient": "António Sapalo",
                         "beneficiary": "Rosa Pinto",
                         "type" : "service-payment",
@@ -1645,7 +1645,7 @@
                       },
                   
                       {
-                          "date": "2022/04/22",
+                          "date": "2021/09/22",
                           "recipient": "Rosa Pinto",
                           "beneficiary": "Academia Startup",
                           "type" : "credit-insertion",
